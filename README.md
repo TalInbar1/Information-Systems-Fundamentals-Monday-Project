@@ -13,4 +13,3 @@ This project involves the comprehensive characterization, analysis, and design o
 ### Project Structure:
 * `Part 1:` Focuses on system requirements and organizational analysis.
 * `Part 2:` Covers system design, data modeling, and the final implementation details.
-* `/Screenshots:` Visual representation of the Monday.com system architecture.
